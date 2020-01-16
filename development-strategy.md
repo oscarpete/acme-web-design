@@ -15,10 +15,10 @@
 | ... | ... | ... | ... |
 | __Footer1__ | the end of the website  | Added the `footer` elements | an empty file |
 | --- | --- | --- | --- |
-| __CSS file__ | Well I added the navigation bar, in my case I create a separate folder called "pages" and inside I will place the other pages | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| __CSS file__ | Added the CSS, this was made before upload on VSC,  everything was made base on the tutorial | no changes | Add the entire CSS, this includes the inner pages |
 |  | |  |  |
 | ... | ... | ... | ... |
-| __Add pages__ | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+| __Add Images folder__ | Forgot to add the images folder, however the more important was to see the working site | No add to the html5 only the images that were missing | no changes |
 
 
 ---
